@@ -1,1 +1,3 @@
 print('khazi')
+
+print('hello')
